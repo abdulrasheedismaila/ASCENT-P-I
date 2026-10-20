@@ -1,0 +1,6 @@
+{
+  "name": "Ascent Properties and Investment Company",
+  "description": "Premium real estate and property investment company. Discover exceptional luxury properties, residential developments, commercial real estate, and investment opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
